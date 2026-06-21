@@ -1,0 +1,9 @@
+John Doe
+Email: john.doe@example.com
+Skills: Java, Spring Boot, SQL, MySQL, Git, Data Structures, Algorithms, REST API, HTML, CSS.
+
+Project: E-commerce Website using Spring Boot. Developed a full-stack platform with REST APIs.
+Project: Placement Portal using Java and MySQL.
+
+Certification: AWS Certified Cloud Practitioner.
+Certification: Oracle Certified Professional Java SE Developer.
